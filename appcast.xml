@@ -3,12 +3,12 @@
     <channel>
         <title>DictateGo</title>
         <item>
-            <title>1.0.12</title>
-            <pubDate>Thu, 22 Jan 2026 14:05:00 -0800</pubDate>
-            <sparkle:version>15</sparkle:version>
-            <sparkle:shortVersionString>1.0.12</sparkle:shortVersionString>
+            <title>2.0.1</title>
+            <pubDate>Thu, 22 Jan 2026 14:39:00 -0800</pubDate>
+            <sparkle:version>21</sparkle:version>
+            <sparkle:shortVersionString>2.0.1</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
-            <enclosure url="https://github.com/jgleas13/DictateGo/releases/download/V1.0.12/DictateGo-1.0.12.zip" length="468913536" type="application/octet-stream" sparkle:edSignature="wi7KF8FB6ECgf4zyiDS3WEK6lsoY388cXdkEvtDBRiy791KIIiw44V0hOxWmKmGEqtJOBAkomU60hsqtpdLWDQ=="/>
+            <enclosure url="https://github.com/jgleas13/DictateGo/releases/download/v2.0.1/DictateGo-2.0.1.zip" length="468913443" type="application/octet-stream" sparkle:edSignature="HL3pDYuC6DYYIJc5gHs+5gl0F4BFkrwnJBp+i72HjZshQit6tiTkYNVq1FtZy1Bbba1Okc6P/gJwl32Mop2rBQ=="/>
         </item>
     </channel>
 </rss>
