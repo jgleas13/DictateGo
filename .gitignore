@@ -17,3 +17,5 @@ xcuserdata/
 *.tmp
 *.orig
 *.bak
+dist/
+keys/
