@@ -6,12 +6,12 @@
         <description>DictateGo updates</description>
         <language>en</language>
         <item>
-            <title>1.0.7</title>
-            <pubDate>Thu, 22 Jan 2026 09:26:10 -0800</pubDate>
-            <sparkle:version>9</sparkle:version>
-            <sparkle:shortVersionString>1.0.7</sparkle:shortVersionString>
+            <title>1.0.6</title>
+            <pubDate>Thu, 22 Jan 2026 10:52:23 -0800</pubDate>
+            <sparkle:version>10</sparkle:version>
+            <sparkle:shortVersionString>1.0.6</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
-            <enclosure url="https://github.com/jgleas13/DictateGo/releases/download/V1.0.7/DictateGo-1.0.7.zip" length="470106128" type="application/octet-stream" sparkle:edSignature="phlCtUmrS6Gh3zBOjtzdre194v/80eQKWprnlGryGT0lR7BHVwOe9x6Qm8UQKtraj3HCwWMOgYK2l8MhbUwmAQ=="/>
+            <enclosure url="https://github.com/jgleas13/DictateGo/releases/download/V1.0.6/DictateGo-1.0.6.zip" length="470222997" type="application/octet-stream" sparkle:edSignature="qZNpC54MC7DaqnDPq8DJEAyWgPac24sIeXTasPCRX5tXUQoaYdDTPh8E9xtoH3G6Kmoa1KUDl0vEXUEuVUcODA=="/>
         </item>
         <item>
             <title>1.0.5</title>
