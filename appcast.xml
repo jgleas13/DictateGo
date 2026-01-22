@@ -8,14 +8,14 @@
     <description>DictateGo updates</description>
     <language>en</language>
     <item>
-      <title>Version 1.0.2</title>
-      <sparkle:version>4</sparkle:version>
-      <sparkle:shortVersionString>1.0.2</sparkle:shortVersionString>
-      <pubDate>Thu, 22 Jan 2026 02:29:58 +0000</pubDate>
+      <title>Version 1.0.3</title>
+      <sparkle:version>5</sparkle:version>
+      <sparkle:shortVersionString>1.0.3</sparkle:shortVersionString>
+      <pubDate>Thu, 22 Jan 2026 03:27:27 +0000</pubDate>
       <enclosure
-        url="https://github.com/jgleas13/DictateGo/releases/download/V1.0.2/DictateGo-1.0.2.zip"
-        sparkle:edSignature="Yz3Ok+2+s68fAq3FwsHp5R9MVV6vStg/UEsTwFVYrcXsu7Wf0QnhNba1AGy/bT3p9j3Ruh60JHIt9l29hxfYDw=="
-        length="469025363"
+        url="https://github.com/jgleas13/DictateGo/releases/download/V1.0.3/DictateGo-1.0.3.zip"
+        sparkle:edSignature="X+LOS9oRKnbkZ0zE6XjVHbnS4ava/qalRbDIUeVbQj3ciMYJj0omouSOcX2Vfy8y5PERcZoCIT9LDZjRYYqRCg=="
+        length="469026316"
         type="application/octet-stream" />
     </item>
   </channel>
