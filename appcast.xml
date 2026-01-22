@@ -11,7 +11,7 @@
             <sparkle:version>9</sparkle:version>
             <sparkle:shortVersionString>1.0.7</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
-            <enclosure url="https://github.com/jgleas13/DictateGo/releases/download/V1.0.7/DictateGo-1.0.7.zip" length="470106150" type="application/octet-stream" sparkle:edSignature="8vSFCrLT8Q0Nxx+V+kYZpahc3MKZnVt+jRtu6d46hM1Kok8UYmZVILYZ5qdHioxm9nZCozjSaYrFd9ojTnruBQ=="/>
+            <enclosure url="https://github.com/jgleas13/DictateGo/releases/download/V1.0.7/DictateGo-1.0.7.zip" length="470106128" type="application/octet-stream" sparkle:edSignature="phlCtUmrS6Gh3zBOjtzdre194v/80eQKWprnlGryGT0lR7BHVwOe9x6Qm8UQKtraj3HCwWMOgYK2l8MhbUwmAQ=="/>
         </item>
         <item>
             <title>1.0.5</title>
