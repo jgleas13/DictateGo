@@ -11,12 +11,12 @@
       <title>Version 1.0.3</title>
       <sparkle:version>5</sparkle:version>
       <sparkle:shortVersionString>1.0.3</sparkle:shortVersionString>
-      <pubDate>Thu, 22 Jan 2026 03:27:27 +0000</pubDate>
+      <pubDate>Thu, 22 Jan 2026 04:49:33 +0000</pubDate>
       <enclosure
-        url="https://github.com/jgleas13/DictateGo/releases/download/V1.0.3/DictateGo-1.0.3.zip"
-        sparkle:edSignature="X+LOS9oRKnbkZ0zE6XjVHbnS4ava/qalRbDIUeVbQj3ciMYJj0omouSOcX2Vfy8y5PERcZoCIT9LDZjRYYqRCg=="
-        length="469026316"
-        type="application/octet-stream" />
+        url="https://github.com/jgleas13/DictateGo/releases/download/V1.0.3/DictateGo-1.0.3.dmg"
+        sparkle:edSignature="UlWvwUKHYD0CsT4rGUoTBai8bAgSN3ktJO88MXxgARjAOGXyRonCmWm+4ZzQvXG8gHicL2N8Hy9neBCTs6xlCQ=="
+        length="478101415"
+        type="application/x-apple-diskimage" />
     </item>
   </channel>
 </rss>
