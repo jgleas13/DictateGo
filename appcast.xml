@@ -8,15 +8,15 @@
     <description>DictateGo updates</description>
     <language>en</language>
     <item>
-      <title>Version 1.0.1</title>
-      <sparkle:version>3</sparkle:version>
-      <sparkle:shortVersionString>1.0.1</sparkle:shortVersionString>
-      <pubDate>Thu, 22 Jan 2026 01:01:17 +0000</pubDate>
+      <title>Version 1.0.2</title>
+      <sparkle:version>4</sparkle:version>
+      <sparkle:shortVersionString>1.0.2</sparkle:shortVersionString>
+      <pubDate>Thu, 22 Jan 2026 01:20:21 +0000</pubDate>
       <enclosure
-        url="https://github.com/jgleas13/DictateGo/releases/download/V1.0.1/DictateGo.dmg"
-        sparkle:edSignature="g9Gu3vHfFtpZnBTmDSTEfazrr/CA6PMRL6LAovCqNXUwJrnBEn1XKIpaJ7LWIqaMXJBWCYHtdc9zO0NRNetEAA=="
-        length="476917784"
-        type="application/x-apple-diskimage" />
+        url="https://github.com/jgleas13/DictateGo/releases/download/V1.0.2/DictateGo.zip"
+        sparkle:edSignature="ckixT1vG277k91AIa63mdUIJctcOwCr3Z2N0rxcMrXegcJkUG7yE9Y5zxRfo/qUtR57O0JYlz+X9S2hayM/zCw=="
+        length="469832845"
+        type="application/octet-stream" />
     </item>
   </channel>
 </rss>
