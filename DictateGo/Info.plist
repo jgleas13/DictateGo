@@ -17,9 +17,9 @@
 	<key>CFBundlePackageType</key>
 	<string>APPL</string>
 	<key>CFBundleShortVersionString</key>
-	<string>1.0.1</string>
+	<string>2.0.1</string>
 	<key>CFBundleVersion</key>
-	<string>3</string>
+	<string>21</string>
 	<key>LSApplicationCategoryType</key>
 	<string>public.app-category.productivity</string>
 	<key>LSUIElement</key>
@@ -39,6 +39,6 @@
 	<key>SUFeedURL</key>
 	<string>https://jgleas13.github.io/DictateGo/appcast.xml</string>
 	<key>SUPublicEDKey</key>
-	<string>PcFTBkDtxqow/SeFPFcazPv9PRZaTDHryx+ga7lgIlU=</string>
+	<string>kHQlKwXUo9sfssutpljSjisOhxYnBMcKy4qQ+DUcidk=</string>
 </dict>
 </plist>

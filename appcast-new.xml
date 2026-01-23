@@ -1,0 +1,37 @@
+<?xml version="1.0" standalone="yes"?>
+<rss xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle" version="2.0">
+    <channel>
+        <title>DictateGo</title>
+        <item>
+            <title>1.0.10</title>
+            <pubDate>Thu, 22 Jan 2026 11:26:42 -0800</pubDate>
+            <sparkle:version>13</sparkle:version>
+            <sparkle:shortVersionString>1.0.10</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+            <enclosure url="https://github.com/jgleas13/DictateGo/releases/download/V1.0.10/DictateGo-1.0.10.zip" length="468870785" type="application/octet-stream" sparkle:edSignature="mxsQvi/UYwP8Qa3PWaFJMWcZrbF4qYmu2bSM+B4bTL7oACApV9M4cj/pvXBYmBZd4GSTU5Fy2JA8gso9AHIkDA=="/>
+            <sparkle:deltas>
+                <enclosure url="https://github.com/jgleas13/DictateGo/releases/download/V1.0.10/DictateGo13-12.delta" sparkle:deltaFrom="12" length="53146" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="860528" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="/vGo/YeABRN7mOPsyCWdQ6GFvDQiHfsPzJETEWfdRY7n7rAGdCAzYdVrFLyScySYB4N0zUKJvxIIUFgxXcByCQ=="/>
+                <enclosure url="https://github.com/jgleas13/DictateGo/releases/download/V1.0.10/DictateGo13-11.delta" sparkle:deltaFrom="11" length="53146" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="860528" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="ox+m0864S8WnVbJb4yW3zUGH150DfwDBqy7EsGyLMjfgUAx1VB5bybDceGePpMCfIJlSQxgz2CXVlA9YimS8CQ=="/>
+                <enclosure url="https://github.com/jgleas13/DictateGo/releases/download/V1.0.10/DictateGo13-10.delta" sparkle:deltaFrom="10" length="53134" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="860528" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="NjPblTm/eGlCrFYbj/amN+6APpUDPA+VbCP8s+BKbVLwnXeoCgapa5ESf2zewdMXbTRXL/QSnxDo/wdOgYAmAA=="/>
+                <enclosure url="https://github.com/jgleas13/DictateGo/releases/download/V1.0.10/DictateGo13-9.delta" sparkle:deltaFrom="9" length="53126" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="860528" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="VvxF0vagnYTA6ibd9/6762c2/fzEd4LhzBaI946GUZ0A8uaEPYWFtmTg8UI+1Gopw9xR9oNOKXGIJTM3XHjQBA=="/>
+                <enclosure url="https://github.com/jgleas13/DictateGo/releases/download/V1.0.10/DictateGo13-8.delta" sparkle:deltaFrom="8" length="53106" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="860528" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="Z4rQwd+wywWG0Zd+YMQw3hVDfLBmw2jg8cB4rgW1YT9JWj/MQiRx3Ffzczvjajzhkj3Kdq9Up4j3TOPvIyT7CQ=="/>
+            </sparkle:deltas>
+        </item>
+        <item>
+            <title>1.0.9</title>
+            <pubDate>Thu, 22 Jan 2026 11:00:06 -0800</pubDate>
+            <sparkle:version>12</sparkle:version>
+            <sparkle:shortVersionString>1.0.9</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+            <enclosure url="https://github.com/jgleas13/DictateGo/releases/download/V1.0.10/DictateGo-1.0.9.zip" length="470223006" type="application/octet-stream" sparkle:edSignature="TCSPdErmDhkNkuhdst2YkqcBpe/5PetPvmWtKOeaquSosqdoVsW5iGkFDLeMdKI6SgWW/AcFbc4B/EP/7OImCw=="/>
+        </item>
+        <item>
+            <title>1.0.8</title>
+            <pubDate>Thu, 22 Jan 2026 10:57:14 -0800</pubDate>
+            <sparkle:version>11</sparkle:version>
+            <sparkle:shortVersionString>1.0.8</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+            <enclosure url="https://github.com/jgleas13/DictateGo/releases/download/V1.0.10/DictateGo-1.0.8.zip" length="470222978" type="application/octet-stream" sparkle:edSignature="6MPzI4RvyNKUogFjf5tgFcr0g0ukNiXqFzpNLH5G82NIe15GK2t2bxLEreUgtccCN5+eUEvu2+bHXiZUla7gBg=="/>
+        </item>
+    </channel>
+</rss>
